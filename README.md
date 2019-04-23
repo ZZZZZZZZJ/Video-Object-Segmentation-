@@ -102,20 +102,177 @@
 
 ##### ACCV
 * **PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation** *J. Luiten, P. Voigtlaender, B. Leibe*
-[[]]
+[[pdf](https://arxiv.org/pdf/1807.09190.pdf)]
+[[code](https://github.com/JonathonLuiten/PReMVOS)]
+
+* **Video Object Segmentation with Language Referring Expressions** *A. Khoreva, A. Rohrbach, B. Schiele*
+[[Project Page](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/video-segmentation/video-object-segmentation-with-language-referring-expressions)]
+[[pdf](https://arxiv.org/pdf/1803.08006.pdf)]
+
+##### PAMI
+* **Video Object Segmentation Without Temporal Information** *K.K. Maninis, S. Caelles, Y. Chen, J. Pont-Tuset, L. Leal-Taixé, D. Cremers, L. Van Gool*
+[[Project Page](http://people.ee.ethz.ch/~cvlsegmentation/osvos-s)]
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8362936)]
+[[code](https://github.com/kmaninis/OSVOS-PyTorch)]
+
+* **Semantic Object Segmentation in Tagged Videos via Detection** *Yu, Zhang; Xiaowu, Chen; Jia, Li; Chen, Wang; Changqun, Xia; Jun, Li*
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7987009)]
+
+* **Saliency-Aware Video Object Segmentation** *Wang, Wenguan; Shen, Jianbing; Yang, Ruigang; Porikli, Fatih*
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7837719)]
+[[code](https://github.com/wenguanwang/saliencysegment)]
 
 ### 2017
+##### CVPR
+* **One-Shot Video Object Segmentation. S. Caelles** *K.K. Maninis, J. Pont-Tuset, L. Leal-Taixé, D. Cremers, L. Van Gool*
+[[Project Page](http://people.ee.ethz.ch/~cvlsegmentation/osvos)]
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)]
+[[code](https://github.com/kmaninis/OSVOS-PyTorch)]
+
+* **Learning Video Object Segmentation from Static Images** *F. Perazzi, A. Khoreva*, R. Benenson, B. Schiele, A. Sorkine-Hornung*
+[[Project Page](https://fperazzi.github.io/projects/masktrack/index.html)]
+[[pdf](https://fperazzi.github.io/projects/masktrack/files/masktrack.pdf)]
+[[code_offline](https://www.dropbox.com/s/c625r4cldc3ouhm/offline_training.zip)]
+[[code_online](https://www.dropbox.com/s/yu9yljus2n3rzp2/online_training.zip)]
+
+* **Online Video Object Segmentation via Convolutional Trident Network** *W.-D. Jang, C.-S. Kim*
+[[Project Page](http://mcl.korea.ac.kr/~dotol1216/CVPR2017_CTN/index.html)]
+[[pdf](http://mcl.korea.ac.kr/~dotol1216/CVPR2017_CTN/2017_CVPR_WDJANG_CTN.pdf)]
+[[code](http://mcl.korea.ac.kr/~dotol1216/CVPR2017_CTN/2017_CVPR_WDJANG_CTN.tar.gz)]
+
+* **Video Propagation Networks** *V. Jampani, R. Gadde, P. V. Gehler*
+[[Project Page](https://varunjampani.github.io/vpn)]
+[[pdf](https://varunjampani.github.io/papers/jampani17_VPN.pdf)]
+[[code](https://github.com/varunjampani/video_prop_networks)]
+
+* **Primary Object Segmentation in Videos Based on Region Augmentation and Reduction** *Y.J. Koh, C.-S. Kim*
+[[Project Page](https://mcl.korea.ac.kr/yjkoh_cvpr2017)]
+[[pdf](https://mcl.korea.ac.kr/~koyongjun/research/CVPR2017/1272.pdf)]
+[[code](https://mcl.korea.ac.kr/~koyongjun/research/CVPR2017/2017_CVPR_YJKOH_ARP.zip)]
+
+* **FusionSeg: Learning to combine motion and appearance for fully automatic segmentation of generic objects in videos** *S. Jain, B. Xiong, K. Grauman*
+[[Project Page](http://vision.cs.utexas.edu/projects/fusionseg)]
+[[pdf](http://www.cs.utexas.edu/~grauman/papers/fusionseg-cvpr2017.pdf)]
+[[code](https://github.com/suyogduttjain/fusionseg)]
+
+* **Learning Motion Patterns in Videos** *P. Tokmakov, K. Alahari, C. Schmid*
+[[Project Page](http://thoth.inrialpes.fr/research/mpnet)]
+[[pdf](https://hal.inria.fr/hal-01427480/document)]
+[[code](http://thoth.inrialpes.fr/research/mpnet/mpnet.tar.gz)]
+
+* **Superpixel-based Tracking-by-Segmentation using Markov Chains** *Hai Ci; Chunyu Wang; Yizhou Wang*
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeo_Superpixel-Based_Tracking-By-Segmentation_Using_CVPR_2017_paper.pdf)]
+[[code](https://github.com/hanulbogo/AMCT)]
+
+##### ICCV
+* **SegFlow: Joint Learning for Video Object Segmentation and Optical Flow** *J. Cheng, Y.-H. Tsai, S. Wang, M.-H. Yang*
+[[Project Page](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)]
+[[pdf](https://arxiv.org/pdf/1709.06750.pdf)]
+[[code](https://github.com/JingchunCheng/SegFlow)]
+
+* **Pixel-level Matching for Video Object Segmentation using Convolutional Neural Networks** *J. Shin Yoon, F. Rameau, J. Kim, S. Lee, S. Shin, I. So Kweon*
+[[Project Page](https://jsyoon4325.wixsite.com/pix-matching)]
+[[pdf](https://arxiv.org/pdf/1708.05137.pdf)]
+
+* **Learning Video Object Segmentation with Visual Memory** *P. Tokmakov, K. Alahari, C. Schmid*
+[[Project Page](http://lear.inrialpes.fr/research/lvo)]
+[[pdf](https://lear.inrialpes.fr/people/alahari/papers/tokmakov17a.pdf)]
+[[code](http://thoth.inrialpes.fr/research/lvo/iccv.tar.gz)]
+
+* **SegFlow: Joint Learning for Video Object Segmentation and Optical Flow** *J. Cheng, Y.-H. Tsai, S. Wang, M.-H. Yang*
+[[Project Page](https://sites.google.com/site/yihsuantsai/research/iccv17-segflow)]
+[[pdf](https://arxiv.org/pdf/1709.06750.pdf)]
+[[code](https://github.com/JingchunCheng/SegFlow)]
+
+* **Unsupervised object segmentation in video by efficient selection of highly probable positive features** *Emanuela Haller, Marius Leordeanu*
+[[Project Page](https://sites.google.com/view/unsupervisedobjectsegmentation/home)]
+[[pdf](https://arxiv.org/pdf/1704.05674.pdf)]
+[[code](https://drive.google.com/drive/folders/0BxYHPeDp3MzoRHpyOGhFRGxyLWM?usp=drive_open)]
+
+* **High-Quality Correspondence and Segmentation Estimation for Dual-Lens Smart-Phone Portraits** *Xiaoyong Shen, Hongyun Gao, Xin Tao, Chao Zhou, Jiaya Jia*
+[[pdf](https://arxiv.org/pdf/1704.02205.pdf)]
+
+##### BMVC
+* **Online Adaptation of Convolutional Neural Networks for Video Object Segmentation** *P. Voigtlaender, B. Leibe*
+[[Project Page](https://www.vision.rwth-aachen.de/publication/00158)]
+[[pdf](https://arxiv.org/pdf/1706.09364.pdf)]
+[[code](https://www.vision.rwth-aachen.de/page/OnAVOS)]
 
 ### 2016
+##### CVPR
+* **Video Segmentation via Object Flow** *Y.-H. Tsai, M.-H. Yang, M. Black*
+[[Project Page](https://sites.google.com/site/yihsuantsai/research/cvpr16-segmentation)]
+[[pdf](http://vllab.ucmerced.edu/ytsai/CVPR16/cvpr16_segmentation.pdf)]
+[[code](https://github.com/wasidennis/ObjectFlow)]
+
+* **Bilateral Space Video Segmentation** *N. Marki, F. Perazzi, O. Wang, A. Sorkine-Hornung*
+[[Project Page](https://fperazzi.github.io/projects/bvs)]
+[[pdf](https://fperazzi.github.io/projects/bvs/files/bvs.pdf)]
+[[code](https://github.com/owang/BilateralVideoSegmentation)]
 
 ### 2015
+##### CVPR
+* **Causal Video Object Segmentation from Persistence of Occlusions** *B. Taylor, V. Karasev, S. Soatto*
+[[Project Page](https://brianrtaylor.github.io/cvos)]
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Taylor_Causal_Video_Object_2015_CVPR_paper.pdf)]
+[[code](https://github.com/brianrtaylor/cvos)]
+
+##### ICCV
+* **Fully Connected Object Proposals for Video Segmentation** *F. Perazzi, O. Wang, M. Gross, A. Sorkine-Hornung*
+[[Project Page](https://fperazzi.github.io/projects/fcop)]
+[[pdf](https://fperazzi.github.io/projects/fcop/files/fcop.pdf)]
+
+* **Motion Trajectory Segmentation via Minimum Cost Multicuts** *M. Keuper, B. Andres, T. Brox*
+[[Project Page](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b)]
+[[pdf](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b/motionSeg.pdf)]
+[[code](http://lmb.informatik.uni-freiburg.de/resources/software.php)]
+
+##### SIGGRAPH
+* **JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout** *Q. Fan, F. Zhong, D. Lischinski, D. Cohen-Or, B. Chen*
+[[Project Page](http://irc.cs.sdu.edu.cn/JumpCut)]
+[[pdf](http://irc.cs.sdu.edu.cn/JumpCut/JumpCut/JumpCut.pdf)]
+[[code](https://github.com/sduirc/JumpCut)]
 
 ### 2014
+##### CVPR
+* **SeamSeg: Video Object Segmentation Using Patch Seams** *S. Avinash Ramakanth, R. Venkatesh Babu*
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Ramakanth_SeamSeg_Video_Object_2014_CVPR_paper.pdf)]
+
+##### BMVC
+* **Video Segmentation by Non-Local Consensus voting** *A. Faktor, M. Irani*
+[[Project Page](http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation.html)]
+[[pdf](http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation/NonLocalVideoSegmentation.pdf)]
+[[code](http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation/NonLocalVideoSegmentation_release_v2.zip)]
 
 ### 2013
+##### ICCV
+* **Fast Object Segmentation in Unconstrained Video** *A. Papazoglou, V. Ferrari*
+[[Project Page](http://groups.inf.ed.ac.uk/calvin/FastVideoSegmentation)]
+[[pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)]
+[[code](http://groups.inf.ed.ac.uk/calvin/ReleasedCode/FastVideoSegmentation%20v1.2.zip)]
 
 ### 2012
+##### CVPR
+* **Video segmentation by tracing discontinuities in a trajectory embedding** *K. Fragkiadaki, G. Zhang, J. Shi*
+[[Project Page](https://www.cs.cmu.edu/~katef/videoseg.html)]
+[[pdf](https://www.cis.upenn.edu/~jshi/papers/CVPR_discontinuities.pdf)]
+[[code](https://www.cs.cmu.edu/~katef/code/Videoseg.tar.gz)]
 
 ### 2011
+##### ICCV 
+* **Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions** *P. Ochs, T. Brox*
+[[Project Page](https://lmb.informatik.uni-freiburg.de/Publications/2011/OB11)]
+[[pdf](https://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/ochs_iccv2011.pdf)]
+[[code](http://lmb.informatik.uni-freiburg.de/resources/binaries)]
+
+* **Key-segments for video object segmentation** *Y. Lee, J. Kim, K. Grauman*
+[[Project Page](http://vision.cs.utexas.edu/projects/keysegments/keysegments.html)]
+[[pdf](http://vision.cs.utexas.edu/projects/keysegments/iccv2011_keysegments.pdf)]
+[[code](http://vision.cs.utexas.edu/projects/keysegments/download_register.html)]
 
 ### 2010
+##### CVPR
+* **Efficient hierarchical graph-based video segmentation** *M. Grundmann, V. Kwatra, M. Han, I. A. Essa*
+[[Project Page](https://www.cc.gatech.edu/cpl/projects/videosegmentation)]
+[[pdf](https://www.cc.gatech.edu/cpl/projects/videosegmentation/cvpr2010_videosegmentation.pdf)]
+[[code](http://www.github.com/videosegmentation/video_segment)]
