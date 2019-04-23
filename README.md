@@ -40,6 +40,69 @@
 [[code](https://github.com/griffbr/TIS)]
 
 ### 2018
+##### CVPR
+* **CNN in MRF: Video Object Segmentation via Inference in a CNN-Based Higher-Order Spatio-Temporal MRF** *L. Bao, B. Wu, W. Liu*
+[[pdf](https://arxiv.org/pdf/1803.09453.pdf)]
+
+* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** *S. Wug Oh, J. Lee, K. Sunkavalli, S. Joo Kim*
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1029.pdf)]
+[[code](https://github.com/seoungwugoh/RGMP)]
+
+* **Fast and Accurate Online Video Object Segmentation via Tracking Parts** *J. Cheng, Y.-H. Tsai, W.-C. Hung, S. Wang, M.-H. Yang*
+[[pdf](https://arxiv.org/pdf/1806.02323.pdf)]
+[[code](https://github.com/JingchunCheng/FAVOS)]
+
+* **Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning** *Y. Chen, J. Pont-Tuset, A. Montes, L. Van Gool*
+[[Project Page](http://www.vision.ee.ethz.ch/~cvlsegmentation/blazingly/)]
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Blazingly_Fast_Video_CVPR_2018_paper.pdf)]
+
+* **Efficient Video Object Segmentation via Network Modulation** *L. Yang, Y. Wang, X. Xiong, J. Yang, A. K. Katsaggelos*
+[[pdf](https://arxiv.org/pdf/1802.01218.pdf)]
+[[code](https://github.com/linjieyangsc/video_seg)]
+
+* **MoNet: Deep Motion Exploitation for Video Object Segmentation** *Huaxin Xiao; Jiashi Feng; Guosheng Lin; Yu Liu; Maojun Zhang*
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)]
+
+* **Reinforcement Cutting-Agent Learning for Video Object Segmentation** *Junwei Han; Le Yang; Dingwen Zhang; Xiaojun Chang; Xiaodan Liang*
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf)]
+
+* **Motion-Guided Cascaded Refinement Network for Video Object Segmentation** *Ping Hu; Gang Wang; Xiangfei Kong; Jason Kuen; Yap-Peng Tan*
+[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0391.pdf)]
+[[code](https://github.com/feinanshan/Motion-Guided-CRN)]
+
+##### ECCV
+* **Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection** *H. Song, W. Wang, J. Shen, S. Zhao, K. M. Lam*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongmei_Song_Pseudo_Pyramid_Deeper_ECCV_2018_paper.pdf)]
+[[code](https://github.com/shenjianbing/PDB-ConvLSTM)]
+
+* **Extending Layered Models to 3D Motion** *D. Lao, G. Sundaramoorthi*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Lao_Extending_Layered_Models_ECCV_2018_paper.pdf)]
+[[code](https://github.com/donglao/layers3Dmotion)]
+
+* **Video Object Segmentation by Learning Location-Sensitive Embeddings** *Hai Ci; Chunyu Wang; Yizhou Wang*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.pdf)]
+
+* **Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation** *Xiaoxiao Li; Chen Change Loy*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoxiao_Li_Video_Object_Segmentation_ECCV_2018_paper.pdf)]
+[[code](https://github.com/lxx1991/VS-ReID)]
+
+* **Sequential Clique Optimization for Video Object Segmentation** *Yeong Jun Koh; Young-Yoon Lee; Chang-Su Kim*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yeong_Jun_Koh_Sequential_Clique_Optimization_ECCV_2018_paper.pdf)]
+
+* **VideoMatch: Matching based Video Object Segmentation** *Yuan-Ting Hu; Jia-Bin Huang; Alexander Schwing*
+[[Project Page](https://sites.google.com/view/videomatch)]
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuan-Ting_Hu_VideoMatch_Matching_based_ECCV_2018_paper.pdf)]
+
+* **Unsupervised Video Object Segmentation with Motion-based Bilateral Networks** *Siyang Li; Bryan Seybold; Alexey Vorobyov; Xuejing Lei; C.-C. Jay Kuo*
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyang_Li_Unsupervised_Video_Object_ECCV_2018_paper.pdf)]
+
+* **Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation** *Yuan-Ting Hu; Jia-Bin Huang; Alexander Schwing*
+[[Project Page](https://sites.google.com/view/unsupervisedvos)]
+[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuan-Ting_Hu_Unsupervised_Video_Object_ECCV_2018_paper.pdf)]
+
+##### ACCV
+* **PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation** *J. Luiten, P. Voigtlaender, B. Leibe*
+[[]]
 
 ### 2017
 
