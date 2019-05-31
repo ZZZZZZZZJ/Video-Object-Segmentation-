@@ -39,9 +39,9 @@
 [[code](https://github.com/imatge-upc/rvos)]
 
 * **Shifting More Attention to Video Salient Object Detection** *Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen*
-[[Project Page](http://dpfan.net/davsod/)](Oral)
+[[Project Page](http://dpfan.net/davsod/)]
 [[pdf](http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf)]
-[[code](https://github.com/DengPingFan/DAVSOD)]
+[[code](https://github.com/DengPingFan/DAVSOD)](Oral)
 
 * **Spatiotemporal CNN for Video Object Segmentation** *Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang*
 [[pdf](https://arxiv.org/pdf/1904.02363.pdf)]
