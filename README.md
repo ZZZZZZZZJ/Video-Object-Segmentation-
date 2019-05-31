@@ -9,6 +9,43 @@
 
 ## PaperLists
 ### 2019
+##### CVPR
+* **SAIL-VOS: Semantic Amodal Instance Level Video Object Segmentation – A Synthetic Dataset and Baselines** *Yuan-Ting Hu, Hong-Shuo Chen, Kexin Hui, Jia-Bin Huang, and Alexander Schwing*
+[[Project Page](https://filebox.ece.vt.edu/~jbhuang/publications.html)]
+
+* **A Generative Appearance Model for End-to-end Video Object Segmentation** *Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan, Michael Felsberg*
+[[pdf](https://arxiv.org/pdf/1811.11611.pdf)]
+
+* **Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video** *Samvit Jain, Xin Wang, Joseph Gonzalez*
+[[pdf](https://arxiv.org/pdf/1807.06667.pdf)](Oral)
+
+* **BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames** *Brent A. Griffin, Jason J. Corso*
+[[pdf](https://arxiv.org/pdf/1903.11779.pdf)]
+[[Project Page](https://github.com/griffbr/BubbleNets)](Oral)
+
+* **Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks** *Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim*
+[[pdf](https://arxiv.org/pdf/1904.09791.pdf)]
+
+* **Learning Unsupervised Video Primary Object Segmentation through Visual Attention** *Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Chu Hong Hoi, and Haibin Ling*
+[[pdf](http://www.dabi.temple.edu/~hbling/publication/UVOS-cvpr19.pdf)]
+[[code](https://github.com/wenguanwang/AGS)]
+
+* **MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation** *Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou*
+[[pdf](https://arxiv.org/pdf/1904.08141.pdf)]
+[[code](https://github.com/shuangjiexu/MHP-VOS)]
+
+* **RVOS: End-to-End Recurrent Network for Video Object Segmentation** *Carles Ventura, Miriam Bellver, Andreu Girbau, Amaia Salvador, Ferran Marques, Xavier Giro-i-Nieto*
+[[pdf](https://arxiv.org/pdf/1903.05612.pdf)]
+[[code](https://github.com/imatge-upc/rvos)]
+
+* **Shifting More Attention to Video Salient Object Detection** *Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen*
+[[Project Page](http://dpfan.net/davsod/)](Oral)
+[[pdf](http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf)]
+[[code](https://github.com/DengPingFan/DAVSOD)]
+
+* **Spatiotemporal CNN for Video Object Segmentation** *Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang*
+[[pdf](https://arxiv.org/pdf/1904.02363.pdf)]
+
 ##### PAMI
 * **Motion-Guided Cascaded Refinement Network for Video Object Segmentation** *Hu, Ping; Wang, Gang; Kong, Xiangfei; Kuen, Jason; Tan, Yappeng*
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8669974)]
