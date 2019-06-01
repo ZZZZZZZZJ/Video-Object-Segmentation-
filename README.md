@@ -45,6 +45,7 @@
 
 * **Spatiotemporal CNN for Video Object Segmentation** *Kai Xu, Longyin Wen, Guorong Li, Liefeng Bo, Qingming Huang*
 [[pdf](https://arxiv.org/pdf/1904.02363.pdf)]
+[[code](https://github.com/longyin880815/STCNN)]
 
 ##### PAMI
 * **Motion-Guided Cascaded Refinement Network for Video Object Segmentation** *Hu, Ping; Wang, Gang; Kong, Xiangfei; Kuen, Jason; Tan, Yappeng*
