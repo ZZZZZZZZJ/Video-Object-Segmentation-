@@ -10,6 +10,14 @@
 ## PaperLists
 ### 2019
 ##### CVPR
+* **FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation** *Paul Voigtlaender, Yuning Chai, Florian Schroff, Hartwig Adam, Bastian Leibe, Liang-Chieh Chen*
+[[pdf](https://arxiv.org/pdf/1902.09513.pdf)]
+[[code](https://github.com/tensorflow/models/tree/master/research/feelvos)]
+
+* **MOTS: Multi-Object Tracking and Segmentation** *Paul Voigtlaender, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, Bastian Leibe*
+[[pdf](https://arxiv.org/pdf/1902.03604.pdf)]
+[[Project Page](https://www.vision.rwth-aachen.de/page/mots)]
+
 * **SAIL-VOS: Semantic Amodal Instance Level Video Object Segmentation – A Synthetic Dataset and Baselines** *Yuan-Ting Hu, Hong-Shuo Chen, Kexin Hui, Jia-Bin Huang, and Alexander Schwing*
 [[Project Page](https://filebox.ece.vt.edu/~jbhuang/publications.html)]
 
