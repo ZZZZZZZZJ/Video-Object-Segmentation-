@@ -25,8 +25,8 @@
 [[pdf](https://arxiv.org/pdf/1811.11611.pdf)]
 
 * **BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames** *Brent A. Griffin, Jason J. Corso*
-[[pdf](https://arxiv.org/pdf/1903.11779.pdf)]
 [[Project Page](https://github.com/griffbr/BubbleNets)](Oral)
+[[pdf](https://arxiv.org/pdf/1903.11779.pdf)]
 
 * **Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks** *Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim*
 [[pdf](https://arxiv.org/pdf/1904.09791.pdf)]
@@ -40,6 +40,7 @@
 [[code](https://github.com/shuangjiexu/MHP-VOS)]
 
 * **RVOS: End-to-End Recurrent Network for Video Object Segmentation** *Carles Ventura, Miriam Bellver, Andreu Girbau, Amaia Salvador, Ferran Marques, Xavier Giro-i-Nieto*
+[[Project Page](https://imatge-upc.github.io/rvos/)]
 [[pdf](https://arxiv.org/pdf/1903.05612.pdf)]
 [[code](https://github.com/imatge-upc/rvos)]
 
