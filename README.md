@@ -253,6 +253,10 @@
 [[pdf](https://fperazzi.github.io/projects/bvs/files/bvs.pdf)]
 [[code](https://github.com/owang/BilateralVideoSegmentation)]
 
+* **Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals** *Fanyi Xiao, Yong Jae Lee*
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xiao_Track_and_Segment_CVPR_2016_paper.pdf)]
+[[video](https://www.youtube.com/watch?v=hi9rCcrlUmg)]
+
 ### 2015
 ##### CVPR
 * **Causal Video Object Segmentation from Persistence of Occlusions** *B. Taylor, V. Karasev, S. Soatto*
@@ -272,6 +276,9 @@
 [[Project Page](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b)]
 [[pdf](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b/motionSeg.pdf)]
 [[code](http://lmb.informatik.uni-freiburg.de/resources/software.php)]
+
+* **Efficient Video Segmentation using Parametric Graph Partitioning** *Chen-Ping Yu, Hieu Le, Gregory Zelinsky, Dimitris Samaras*
+[[pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yu_Efficient_Video_Segmentation_ICCV_2015_paper.pdf)]
 
 ##### SIGGRAPH
 * **JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout** *Q. Fan, F. Zhong, D. Lischinski, D. Cohen-Or, B. Chen*
@@ -301,6 +308,9 @@
 [[Project Page](http://groups.inf.ed.ac.uk/calvin/FastVideoSegmentation)]
 [[pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)]
 [[code](http://groups.inf.ed.ac.uk/calvin/ReleasedCode/FastVideoSegmentation%20v1.2.zip)]
+
+* **Video segmentation by tracking many figure-ground segments** *Fuxin Li, Taeyoung Kim, Ahmad Humayun, David Tsai, James M. Rehg*
+[[pdf](https://web.engr.oregonstate.edu/~lif/SegTrack2/segtrack2_cameraready.pdf)]
 
 ##### TPAMI
 * **Semi-Supervised Video Segmentation using Tree Structured Graphical Models** *Vijay Badrinarayanan, Ignas Budvytis, and Roberto Cipolla*
