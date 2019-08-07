@@ -256,6 +256,9 @@
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Taylor_Causal_Video_Object_2015_CVPR_paper.pdf)]
 [[code](https://github.com/brianrtaylor/cvos)]
 
+* **JOTS: Joint Online Tracking and Segmentation** *Longyin Wen, Dawei Du, Zhen Lei, Stan Z. Li, Ming-Hsuan Yang*
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wen_JOTS_Joint_Online_2015_CVPR_paper.pdf)]
+
 ##### ICCV
 * **Fully Connected Object Proposals for Video Segmentation** *F. Perazzi, O. Wang, M. Gross, A. Sorkine-Hornung*
 [[Project Page](https://fperazzi.github.io/projects/fcop)]
@@ -277,6 +280,11 @@
 * **SeamSeg: Video Object Segmentation Using Patch Seams** *S. Avinash Ramakanth, R. Venkatesh Babu*
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Ramakanth_SeamSeg_Video_Object_2014_CVPR_paper.pdf)]
 
+##### ECCV
+* **Supervoxelconsistent foreground propagation in video** *Suyog Dutt Jain, Kristen Grauman*
+[[Project Page](http://vision.cs.utexas.edu/projects/videoseg/)]
+[[pdf](https://www.cs.utexas.edu/~grauman/papers/suyog-eccv2014.pdf)]
+
 ##### BMVC
 * **Video Segmentation by Non-Local Consensus voting** *A. Faktor, M. Irani*
 [[Project Page](http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation.html)]
@@ -289,6 +297,10 @@
 [[Project Page](http://groups.inf.ed.ac.uk/calvin/FastVideoSegmentation)]
 [[pdf](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papazoglouICCV2013-camera-ready.pdf)]
 [[code](http://groups.inf.ed.ac.uk/calvin/ReleasedCode/FastVideoSegmentation%20v1.2.zip)]
+
+##### TPAMI
+* **Semi-Supervised Video Segmentation using Tree Structured Graphical Models** *Vijay Badrinarayanan, Ignas Budvytis, and Roberto Cipolla*
+[[pdf](http://mi.eng.cam.ac.uk/~cipolla/publications/article/2013-PAMI-video-segmentation.pdf)]
 
 ### 2012
 ##### CVPR
