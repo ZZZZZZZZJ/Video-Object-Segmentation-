@@ -231,6 +231,10 @@
 * **High-Quality Correspondence and Segmentation Estimation for Dual-Lens Smart-Phone Portraits** *Xiaoyong Shen, Hongyun Gao, Xin Tao, Chao Zhou, Jiaya Jia*
 [[pdf](https://arxiv.org/pdf/1704.02205.pdf)]
 
+##### NIPS
+* **MaskRNN: Instance Level Video Object Segmentation** *Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing*
+[[pdf](https://arxiv.org/pdf/1803.11187.pdf)]
+
 ##### BMVC
 * **Online Adaptation of Convolutional Neural Networks for Video Object Segmentation** *P. Voigtlaender, B. Leibe*
 [[Project Page](https://www.vision.rwth-aachen.de/publication/00158)]
