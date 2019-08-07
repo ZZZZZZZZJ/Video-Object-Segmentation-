@@ -313,6 +313,10 @@
 [[pdf](https://www.cis.upenn.edu/~jshi/papers/CVPR_discontinuities.pdf)]
 [[code](https://www.cs.cmu.edu/~katef/code/Videoseg.tar.gz)]
 
+##### ECCV
+* **Streaming Hierarchical Video Segmentation** *Chenliang Xu, Caiming Xiong and Jason J. Corso*
+[[pdf](https://cse.buffalo.edu/~jcorso/pubs/jcorso_ECCV2012_streamgbh.pdf)]
+
 ### 2011
 ##### ICCV 
 * **Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions** *P. Ochs, T. Brox*
